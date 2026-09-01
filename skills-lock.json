@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "unfold-core": {
+      "source": "Ali-Fani/django-unfold-skills",
+      "sourceType": "github",
+      "skillPath": "skills/unfold-core/SKILL.md",
+      "computedHash": "ed51decf56e15b69be2d841a2186ba8273fc9cba6a50bf67e38b1829468bedbd"
+    }
+  }
+}
